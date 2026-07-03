@@ -1,0 +1,45 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.local
+*.key
+config/secrets.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large or raw data (uncomment if your data is big or shouldn't be public)
+# data/raw/
+# *.csv
+# *.zip
+# *.parquet
+
+# Model files (if large)
+# *.pkl
+# *.h5
+# *.model
+
+# Logs
+*.log
