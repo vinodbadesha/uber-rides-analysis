@@ -38,11 +38,11 @@ Three interactive dashboards were built from this analysis, and published on Tab
 ** [View the live dashboards ->] (https://public.tableau.com/app/profile/vinod.badesha/viz/UberRidesAnalysis_17840553638860/DemandOperations)
 
 - Revenue Dashboard - Revenue KPIs, payment method breakdown, vehicle type distribution, and price vs distance relationship
-![Revenue Dashboard](revenue-dashboard.png)
+![Revenue Dashboard](revenue-dashboard)
 - Cancellations & Satisfaction - Canceled bookings KPI, driver/customer cancellation reasons, and rating comparisons
-![Cancellations & Satisfaction Dashboard](cancellations-satisfaction-dashboard.png)
+![Cancellations & Satisfaction Dashboard](cancellations-satisfaction-dashboard)
 - Demand & Operations - Booking status, demand by hour and weekday, and median driver acceptance/customer boarding time by hour.
-![Demand & Operations Dashboard](demand-operations-dashboard.png)
+![Demand & Operations Dashboard](demand-operations-dashboard)
 
 ## How to Run
 
