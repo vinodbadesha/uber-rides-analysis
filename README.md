@@ -29,7 +29,20 @@ No missing values were found outside of cancellation- and incomplete-reason colu
 - Python (pandas, numpy)
 - Matplotlib for visualization
 - Jupyter Notebook
-- Tableau for dashboarding (development only; not included in repo)
+- Tableau for dashboarding
+
+## Interactive Dashboards
+
+Three interactive dashboards were built from this analysis, and published on Tableau Public:
+
+** [View the live dashboards ->] (https://public.tableau.com/app/profile/vinod.badesha/viz/UberRidesAnalysis_17840553638860/DemandOperations)
+
+- Revenue Dashboard - Revenue KPIs, payment method breakdown, vehicle type distribution, and price vs distance relationship
+![Revenue Dashboard](revenue-dashboard.png)
+- Cancellations & Satisfaction - Canceled bookings KPI, driver/customer cancellation reasons, and rating comparisons
+![Cancellations & Satisfaction Dashboard](cancellations-satisfaction-dashboard.png)
+- Demand & Operations - Booking status, demand by hour and weekday, and median driver acceptance/customer boarding time by hour.
+![Demand & Operations Dashboard](demand-operations-dashboard.png)
 
 ## How to Run
 
